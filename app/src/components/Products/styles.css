@@ -1,0 +1,14 @@
+.productsRow {
+    display: flex;
+}
+
+.productCard {
+    padding: 8px;
+    border: 1px solid black;
+    margin: 8px;
+    cursor: pointer;
+}
+
+.productCard:hover {
+    background-color: aqua;
+}
